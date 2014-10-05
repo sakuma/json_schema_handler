@@ -1,0 +1,2 @@
+module JsonSchemaHandler
+end
